@@ -3,7 +3,7 @@
 ## HOW TO INSTALL
 [Installation](./Installation.md)
 
-## ABOUT AUR
+## About Package manager
 [pacman](./pacman.md)
 
 
