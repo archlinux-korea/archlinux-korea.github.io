@@ -8,7 +8,7 @@
 
 ## DE
 [GNOME](./gnomesettings.md)
-[Xfce]()
+[Xfce](./xfce.md)
 
 ## JOIN US!
 [official Discord Server](https://discord.gg/qK7rcWY6ka)
