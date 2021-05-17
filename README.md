@@ -7,8 +7,8 @@
 [pacman](./pacman.md)
 
 ## DE
-[GNOME](./gnomesettings.md)
-[Xfce](./xfce.md)
+- [GNOME](./gnomesettings.md)
+- [Xfce](./xfce.md)
 
 ## JOIN US!
 [official Discord Server](https://discord.gg/qK7rcWY6ka)
