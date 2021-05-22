@@ -10,5 +10,8 @@
 - [GNOME](./gnomesettings.md)
 - [Xfce](./xfce.md)
 
+## 한글설정
+- [uim](./uim.md)
+
 ## JOIN US!
 [official Discord Server](https://discord.gg/qK7rcWY6ka)
