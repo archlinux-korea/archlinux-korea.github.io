@@ -15,3 +15,7 @@
 
 ## JOIN US!
 [official Discord Server](https://discord.gg/qK7rcWY6ka)
+
+
+## 기여해주신분들
+nano#2925(discord)
